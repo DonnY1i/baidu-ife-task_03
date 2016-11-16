@@ -1,0 +1,26 @@
+div{
+	border: 1px solid #999;
+	padding: 20px;
+}
+.whole{
+	background-color: #eee;
+}
+.left{
+	float: left;
+	width: 200px;
+	background-color: white;
+}
+.right{
+	float: right;
+	width: 120px;
+	background-color: white;
+}
+.center{
+	background-color: white;
+	margin: 0 180px 0 260px;
+}
+.logo{
+	width: 80px;
+	height: 80px;
+	background-color: #eee;
+}
